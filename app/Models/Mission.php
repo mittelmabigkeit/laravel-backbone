@@ -1,5 +1,5 @@
 <?php namespace App\Models;
-    class Mission extends Eloquent {
+    class Mission extends Eloquent  {
         public static $table = 'tasks';
 
     }

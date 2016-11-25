@@ -6,8 +6,7 @@ Route::get('/', function () {
 
 
 Route::get('/tasks', function () {
-    return json_encode(app\Models\Mission::all());
+    return json_encode(app\Models\Mission::all() );
 });
 
 ?>
-
