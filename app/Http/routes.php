@@ -1,5 +1,5 @@
 <?php
-//use App\Http\Controllers;
+use App\Http\Controllers;
 
 //Route::get('/', 'PostController@index');
 
